@@ -1,5 +1,5 @@
-.ipynb_checkpoints
-.~lock.people.csv#
+./ipynb_checkpoints
+*.~lock
 
 *.aux
 *.glo
