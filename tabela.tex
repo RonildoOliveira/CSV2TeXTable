@@ -1,7 +1,7 @@
 \documentclass[12pt]{article} 
-\begin{document} 
+\usepackage{graphicx}\begin{document} 
 \begin{table}[] 
-\begin{tabular}{|l|l|l|l|l|l|l|l|l|} 
+\resizebox{\textwidth}{!}{\begin{tabular}{|l|l|l|l|l|l|l|l|l|} 
 \hline 
  & & & & & & & &  \\ \hline 
 Date & & & &Method &Total Edit distance (case sensitive) &Correctly Recognised Words (case sensitive) &T.E.D. (case insensitive) &C.R.W. (case insensitive)  \\ \hline 
@@ -9,5 +9,6 @@ Date & & & &Method &Total Edit distance (case sensitive) &Correctly Recognised W
 2017-06-30 & & & &Tencent-DPPR Team \& USTB-PRIR &4,022.12 &36.91\% &1,233.46 &70.83\%  \\ \hline 
 2019-02-25 & & & &CLOVA-AI &3,594.48 &47.35\% &1,583.77 &69.27\%  \\ \hline 
 \end{tabular}
+}
 \end{table} 
 \end{document} 

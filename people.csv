@@ -1,5 +1,4 @@
-,,,,,,,,
-Date,,,,Method,Total Edit distance (case sensitive),Correctly Recognised Words (case sensitive),T.E.D. (case insensitive),C.R.W. (case insensitive)
-2017-07-01,,,,HIK_OCR,"3,661.58",41.72%,899.10,76.11%
-2017-06-30,,,,Tencent-DPPR Team & USTB-PRIR,"4,022.12",36.91%,"1,233.46",70.83%
-2019-02-25,,,,CLOVA-AI,"3,594.48",47.35%,"1,583.77",69.27%
+Date,Method,Total Edit distance (case sensitive),Correctly Recognised Words (case sensitive),T.E.D. (case insensitive),C.R.W. (case insensitive)
+2017-07-01,HIK_OCR,"3,661.58",41.72%,899.10,76.11%
+2017-06-30,Tencent-DPPR Team & USTB-PRIR,"4,022.12",36.91%,"1,233.46",70.83%
+2019-02-25,CLOVA-AI,"3,594.48",47.35%,"1,583.77",69.27%
