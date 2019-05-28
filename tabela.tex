@@ -1,13 +1,24 @@
 \documentclass[12pt]{article} 
-\usepackage{graphicx}\begin{document} 
-\begin{table}[] 
-\resizebox{\textwidth}{!}{\begin{tabular}{|l|l|l|l|l|l|l|l|l|} 
+\usepackage{graphicx} 
+\begin{document} 
+\begin{table}[ht] 
+\resizebox{\textwidth}{!}{\begin{tabular}{|l|l|l|l|l|l|} 
 \hline 
- & & & & & & & &  \\ \hline 
-Date & & & &Method &Total Edit distance (case sensitive) &Correctly Recognised Words (case sensitive) &T.E.D. (case insensitive) &C.R.W. (case insensitive)  \\ \hline 
-2017-07-01 & & & &HIK\_OCR &3,661.58 &41.72\% &899.10 &76.11\%  \\ \hline 
-2017-06-30 & & & &Tencent-DPPR Team \& USTB-PRIR &4,022.12 &36.91\% &1,233.46 &70.83\%  \\ \hline 
-2019-02-25 & & & &CLOVA-AI &3,594.48 &47.35\% &1,583.77 &69.27\%  \\ \hline 
+\textbf{Date} &\textbf{Method} &\textbf{T.E.D (C.S)} &\textbf{C.R.W. (C.S)} &\textbf{T.E.D. (C.I)} &\textbf{C.R.W. (C.I)}  \\ \hline 
+2017-07-01 &HIK\_OCR &3,661.58 &41.72\% &899.10 &76.11\%  \\ \hline 
+2017-06-30 &Tencent-DPPR Team \& USTB-PRIR &4,022.12 &36.91\% &1,233.46 &70.83\%  \\ \hline 
+2019-02-25 &CLOVA-AI &3,594.48 &47.35\% &1,583.77 &69.27\%  \\ \hline 
+2018-12-19 &SAR &4,002.36 &41.27\% &1,528.74 &66.85\%  \\ \hline 
+2019-03-20 &ustc\_pr316 &4,111.81 &40.00\% &1,615.44 &65.35\%  \\ \hline 
+2017-06-30 &HKU-VisionLab &3,921.94 &40.17\% &1,903.37 &59.29\%  \\ \hline 
+2017-06-30 &BRTRS-Recognition &4,895.96 &28.18\% &2,282.49 &59.25\%  \\ \hline 
+2018-12-23 &Airtel OCR - Readotron &4,892.62 &31.64\% &2,296.50 &51.01\%  \\ \hline 
+2017-06-29 &CCFLAB &4,743.28 &26.52\% &2,982.66 &42.66\%  \\ \hline 
+2019-05-27 &QxR2 &6,164.12 &24.83\% &4,705.33 &37.51\%  \\ \hline 
+2017-10-06 &CRNN - Sravya &5,704.54 &24.26\% &3,532.96 &36.98\%  \\ \hline 
+2017-06-30 &3CNN\_2BiLSTM\_CTC &6,405.61 &12.19\% &4,395.42 &30.17\%  \\ \hline 
+2017-06-30 &Enhancing Text Recognition Accuracy by Adding External Language Model &7,231.87 &17.88\% &5,555.89 &29.69\%  \\ \hline 
+2017-06-28 &LSTM based text recognition &6,594.01 &10.11\% &4,638.83 &26.25\%  \\ \hline 
 \end{tabular}
 }
 \end{table} 
