@@ -8,8 +8,8 @@ Date,Method,T.E.D (C.S),C.R.W. (C.S),T.E.D. (C.I),C.R.W. (C.I)
 2017-06-30,BRTRS-Recognition,"4,895.96",28.18%,"2,282.49",59.25%
 2018-12-23,Airtel OCR - Readotron,"4,892.62",31.64%,"2,296.50",51.01%
 2017-06-29,CCFLAB,"4,743.28",26.52%,"2,982.66",42.66%
-2019-05-27,QxR2,"6,164.12",24.83%,"4,705.33",37.51%
+2019-05-31,GoogleVisionAPI,"6,164.12",24.83%,"4,705.33",37.51%
 2017-10-06,CRNN - Sravya,"5,704.54",24.26%,"3,532.96",36.98%
 2017-06-30,3CNN_2BiLSTM_CTC,"6,405.61",12.19%,"4,395.42",30.17%
-2017-06-30,Enhancing Text Recognition Accuracy by AELM,"7,231.87",17.88%,"5,555.89",29.69%
+2017-06-30,Enhancing Text Recognition Accuracy by Adding External Language Model,"7,231.87",17.88%,"5,555.89",29.69%
 2017-06-28,LSTM based text recognition,"6,594.01",10.11%,"4,638.83",26.25%
